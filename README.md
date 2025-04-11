@@ -16,7 +16,7 @@ A sleek and intuitive personal notes application built with React and styled wit
 
 ## 🖥️ Screenshots
 
-[Screenshots to be added]
+![App Screenshot](https://github.com/user-attachments/assets/ed238774-6cae-4f59-8b01-e4c3f9796263)
 
 ## 🛠️ Technologies Used
 
