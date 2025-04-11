@@ -35,8 +35,8 @@ A sleek and intuitive personal notes application built with React and styled wit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amalrivel/Personal-Notes-App-React.git
-   cd Personal-Notes-App-React
+   git clone https://github.com/amalrivel/personal-notes-app-react.git
+   cd personal-notes-app-react
    ```
 
 2. Install dependencies:
@@ -143,7 +143,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Ikhlasul Amal Rivel - [GitHub Profile](https://github.com/amalrivel)
 
 ---
 
